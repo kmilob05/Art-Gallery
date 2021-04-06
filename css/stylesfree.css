@@ -1,0 +1,131 @@
+body{
+    background-image: url(imgenes/mountain-1209497_1280.jpg);
+    background-size: cover;
+   }
+   .head{
+    height: 100px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto; 
+    background: color 0;;
+    float: right;
+}
+
+.contenedort1{
+background: color 0;
+width: 50%;
+height: 60%;   
+margin-top: 10px;
+margin-left: 100px;
+float:left;
+}
+.logo{
+    background-image:url(imgenes/goat\ logo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 80px;
+    margin-left: 550px;
+    margin-top: 10px;
+    background: color 0;;
+    
+}
+.titulop{
+    background: color black;;
+    margin-top: 5px;
+    margin-left: 45%;
+    margin-right: auto;
+    color:black;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
+    width: 40%;
+    height:65px;
+    text-align: center;
+    float: left;
+ }
+ 
+ .cont{
+
+    width: 60% ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(1, 0, 3, 0.753);
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 20px;
+    padding:10px ;
+    padding-bottom:20px;
+    padding-right: 30px;
+    text-align: justify;
+    float: left;
+    background: color 0;;
+    }
+    .conte{
+        width: 100%;
+        height:auto;
+        background-color: brown;
+    }
+    .cont1{
+        width: 100%;
+        height:auto;
+        background-color: rgb(77, 21, 21);
+
+    }
+    .image{
+        width:32%;
+        height: 366px;
+        float: right;
+        background-image: url(imgenes/backpack-2842083_640.jpg);
+        background-size: cover;
+        margin-top: 20px;
+        margin-right: 40px;
+
+    }
+   
+
+    .image1{
+        width:32%;
+        height:366px;
+        background-image:url(imgenes/man-498473_640.jpg);
+         background-size: cover;
+        margin-top: 20px;
+        margin-right: 40px;
+        
+    }
+    .cont2{
+        
+    width: 60% ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgba(1, 0, 3, 0.753);
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 20px;
+    padding:20px ;
+    padding-bottom:20px;
+    padding-right: 20px;
+    text-align: justify;
+    }
+    
+    nav{
+        background :color 0;;
+        margin-top: 18px;
+        float: right;
+        
+    }
+    ul{
+        background :color 0;;
+        
+    }
+    li{
+        background:color 0;;
+        margin-top: 5px;
+        display: inline;
+    }
+    a{
+    
+    color:rgb(7, 7, 7);
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-decoration: none;
+     margin-right: 40px;
+    }
+   

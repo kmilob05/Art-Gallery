@@ -1,0 +1,182 @@
+body{
+    background-image: url(imgenes/black-370118_1280.png);
+    background-size: cover;
+    margin: 2;
+   }
+ 
+ .contenedort2{
+     background-color: rgb(158, 189, 235);
+     height: 110px;
+     width: 100%;
+     margin-right: auto;
+    margin-left:auto;
+    float: left;
+
+   
+     }
+     .titulop2{
+        
+        color:rgb(4, 36, 36);
+        margin-top: 20px;
+        height: 70px;
+        width:350px;
+        margin-left: 540px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size:54px;
+        float: left;
+        text-align: center;
+        
+
+      }
+    .logo2{
+       
+        background-image:url(imgenes/logo.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 170px;
+        height: 170px;
+        margin-right: 5px;
+        
+        
+       
+    }
+    
+    nav{
+        background-color:rgb(42, 42, 68);
+        width: 87.5%;
+        height: 60px;
+        margin-left: 170px;
+        float: left;
+       
+        
+
+       
+    }
+    li{
+        display: inline;
+        height: 40px;
+        margin-right: 40px;
+        float: left;
+        
+
+        
+    }
+    a{
+        
+        color:#fff;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+         margin-right: 30px;
+        margin-top: 5px;
+        float:left;
+        text-decoration: none;
+    }
+    .f1{
+      
+        width: 300px;
+        height: 210px;
+        margin-left: 40%;
+        color:#fff;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        text-align: center;
+        font-size: 30px;
+        float: center;
+        
+        
+    }
+    .f2{
+        margin-left: 27%;
+        font-size: 20px;
+        color:#fff;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-top: 40px;
+
+        float:left;
+    }
+
+    fieldset{
+        margin-left:auto;
+        margin-right:auto;
+        width:40%;
+        background-color:  rgb(158, 189, 235);
+        border:10;
+        height:auto;
+        float: center;
+        margin-bottom: 20px;
+    
+    }
+    .legend{
+        color:rgb(42, 42, 68);
+        font-weight: bold;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size:20px;
+        margin-bottom: 10px;
+        margin-top:10 px;
+        text-decoration-style:none;
+        margin-left:auto;
+        margin-right:auto;
+        text-align:center;
+    }
+    [type="text"]{
+        display:block;
+        width:50%;
+        height:25px;
+        margin:auto;
+        margin-top:5px;
+        background-color:rgb(241, 235, 235);
+        border-color: rgb(37, 42, 49);
+    }
+    [type="number"]{
+        display:block;
+        width:50%;
+        height:25px;
+        margin:auto;
+        margin-top:5px;
+        background-color:rgb(241, 235, 235);
+        border-color: rgb(37, 42, 49);
+    }
+    [type="email"]{
+        display:block;
+        width:50%;
+        height:25px;
+        margin:auto;
+        margin-top:5px;
+        background-color:rgb(241, 235, 235);
+        border-color: rgb(37, 42, 49);
+        color:rgb(42, 42, 68);
+    }
+    [type="date"]{
+        display:block;
+        width:50%;
+        height:25px;
+        margin:auto;
+        margin-top:5px;
+        background-color:rgb(241, 235, 235);
+        border-color: rgb(37, 42, 49);
+        color:rgb(42, 42, 68);
+    }
+    [type="submit"]{
+        font-family: monospace;
+        display:block;
+        width:20%;
+        height:25px;
+        margin:auto;
+        margin-top:5px;
+        color: aliceblue;
+        background-color:rgb(42, 42, 68);
+        border-color: rgb(241, 235, 235);
+    }
+    .sop1{
+       background-color: burlywood;
+        width: 100%;
+        height: 200px;
+        float: left;
+    }
+    .imag1{
+    background-image:url(imgenes/istanbul-168774_1280.jpg) ;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+   
+  
